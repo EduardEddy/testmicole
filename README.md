@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## PROJECTO MICOLE
+## PROYECTO MICOLE
 
 1. Clonar el projecto
 
